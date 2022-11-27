@@ -5,7 +5,7 @@ function Home(props) {
     const {} = props
 
     return (
-        
+        <h2>asdasd</h2>
     )
 }
 
